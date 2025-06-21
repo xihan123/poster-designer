@@ -1,0 +1,26 @@
+{
+  "name": "poster-designer",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "file-saver": "^2.0.x",
+    "html2canvas": "^1.4.1",
+    "terser": "^5.43.x",
+    "uuid": "^11.1.0",
+    "vue": "^3.5.x",
+    "vuedraggable": "^4.1.0"
+  },
+  "devDependencies": {
+    "@types/file-saver": "^2.0.7",
+    "@types/node": "^24.0.3",
+    "@vitejs/plugin-vue": "^5.2.4",
+    "typescript": "^5.8.x",
+    "vite": "^6.3.x",
+    "vue-tsc": "^1.8.27"
+  }
+}
